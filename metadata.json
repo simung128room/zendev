@@ -1,0 +1,6 @@
+{
+  "name": "ApexCheck - Fintech SaaS & Verification Platform",
+  "description": "Enterprise Fintech SaaS platform for real-time transaction verification, AML/KYC risk auditing, AI financial analysis, and programmable developer sandbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
